@@ -8,6 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Laxman-Nath)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laxman-Nath&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Laxman-Nath&show_icons=true&locale=en" alt="GitHub Stats" /></p>
