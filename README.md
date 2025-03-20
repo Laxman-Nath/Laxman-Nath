@@ -22,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxman-nath&show_icons=true&locale=en" alt="laxman-nath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxman-nath&" alt="laxman-nath" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Laxman-Nath)](https://github.com/ryo-ma/github-profile-trophy)
 
