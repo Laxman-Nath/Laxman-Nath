@@ -16,12 +16,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Laxman-Nath&" alt="GitHub Streak" /></p>
 
 ## 📫 How to reach me:
-📧 **Email:** nathlaxman242@gmail.com  
-
-## 🌐 Connect with me:
-<a href=""https://www.facebook.com/profile.php?id=100067210381059 target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
+📧 **Email:** nathlaxman242@gmail.com 
 
 ## 🛠 Languages and Tools:
 <p align="left">
