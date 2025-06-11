@@ -58,7 +58,7 @@
   <a href="https://github.com/Laxman-Nath" target="blank">
     <img src="https://img.shields.io/badge/GitHub-Laxman--Nath-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/laxman-nath" target="blank">
+  <a href="https://www.linkedin.com/in/laxman-nath-981630275/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-laxman--nath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
