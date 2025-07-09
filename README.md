@@ -39,22 +39,22 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmannath&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmannath&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=laxma-nnath&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxman-nath&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmannath&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxman-nath&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
 ## 🐍 My Contribution Snake Animation
 
-[![Run Snake Animation](https://github.com/laxmannath/laxmannath/actions/workflows/snake.yml/badge.svg)](https://github.com/laxmannath/laxmannath/actions/workflows/snake.yml)
+[![Run Snake Animation](https://github.com/laxmannath/laxman-nath/actions/workflows/snake.yml/badge.svg)](https://github.com/laxmannath/laxmannath/actions/workflows/snake.yml)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/laxmannath/laxmannath/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/laxmannath/laxman-nath/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
