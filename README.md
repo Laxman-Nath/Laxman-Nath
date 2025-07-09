@@ -1,12 +1,13 @@
 <h1 align="center">👋 Hi, I'm Laxman Nath — Welcome to My Java Backend Universe! 🚀</h1>
 
-<p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
-
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50" alt="waving hand" />
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=%23FF6F61&size=24&center=true&vCenter=true&width=650&height=50&lines=Hello,+I'm+Laxman+Nath!;Java+Developer+|+Spring+Boot+Enthusiast+|+Backend+Engineer;Building+Secure+and+Scalable+Web+Apps;Welcome+to+My+GitHub!"
+    alt="Typing SVG"
   />
 </p>
+
 
 ---
 
