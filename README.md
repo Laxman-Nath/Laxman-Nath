@@ -1,64 +1,67 @@
-<!-- README.md -->
-
-<h1 align="center">🚀 About Me</h1>
+<h1 align="center">👋 Hi, I'm Laxman Nath — Welcome to My Java Backend Universe! 🚀</h1>
 
 <p align="center">
-  👋 Hi, I'm <strong>Laxman Nath</strong>, a passionate <strong>Software Developer</strong> from Nepal.
-</p>
-
-<p align="center">
-  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=%23FF6F61&size=24&center=true&vCenter=true&width=650&height=50&lines=Java+Developer+|+Spring+Boot+Enthusiast+|+Backend+Architect+in+Progress;Building+Secure+and+Scalable+Web+Apps;Welcome+to+My+Code+World!"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 About Me
+
+- 👨‍💻 Passionate **Java Developer & Backend Engineer**
+- 🚀 Built real-world projects like **Mobile Mart (an e-commerce platform)** and a **Library Management System**
+- 🌱 Currently exploring **Spring Security, JWT Authentication, and API Development**
+- 🎯 Focused on creating clean, secure, and scalable backend systems
+- 📫 Reach me at **[nathlaxman242@gmail.com](mailto:nathlaxman242@gmail.com)**
+
+---
+
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Laxman-Nath&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laxman-Nath&theme=onedark" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laxman-Nath&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Laxman-Nath&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laxman-Nath" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,bootstrap,mysql,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🛠 Languages and Tools:
+## 🔗 Connect With Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/laxman-nath/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/laxmannath_/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/laxmannath" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <a href="mailto:nathlaxman242@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nathlaxman242@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Laxman-Nath" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-Laxman--Nath-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/laxman-nath-981630275/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-laxman--nath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmannath&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmannath&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmannath&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+</p>
+
+---
+
+## 🐍 My Contribution Snake Animation
+
+[![Run Snake Animation](https://github.com/laxmannath/laxmannath/actions/workflows/snake.yml/badge.svg)](https://github.com/laxmannath/laxmannath/actions/workflows/snake.yml)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/laxmannath/laxmannath/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<h3 align="center">🚀 Let’s build, innovate, and grow together in the world of code! 🚀</h3>
