@@ -54,14 +54,6 @@
 
 ---
 
-## 🐍 My Contribution Snake Animation
 
-[![Run Snake Animation](https://github.com/Laxman-Nath/Laxman-Nath/actions/workflows/snake.yml/badge.svg)](https://github.com/Laxman-Nath/Laxman-Nath/actions/workflows/snake.yml)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Laxman-Nath/Laxman-Nath/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 <h3 align="center">🚀 Let’s build, innovate, and grow together in the world of code! 🚀</h3>
