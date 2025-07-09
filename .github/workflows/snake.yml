@@ -16,11 +16,8 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Create dist directory
-        run: mkdir -p dist
 
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
@@ -28,7 +25,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           output: dist/snake.svg?palette=github-dark
 
-      - name: Verify dist contents
+      - name: List files after generation (debug)
         run: ls -la dist
 
       - name: Push snake.svg to the output branch
