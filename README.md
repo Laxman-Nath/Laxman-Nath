@@ -9,11 +9,12 @@
 
 ## 🌟 About Me
 
-- 👨‍💻 Passionate **Java Developer & Backend Engineer**
-- 🚀 Built real-world projects like **Mobile Mart (an e-commerce platform)** and a **Library Management System**
-- 🌱 Currently exploring **Spring Security, JWT Authentication, and API Development**
-- 🎯 Focused on creating clean, secure, and scalable backend systems
-- 📫 Reach me at **[nathlaxman242@gmail.com](mailto:nathlaxman242@gmail.com)**
+👨‍💻 Passionate Full-Stack Developer
+- 🚀 Experienced in building end-to-end web applications, including an e-commerce platform (Mobile Mart) and a Library Management System
+- 🌱 Continuously learning and working with authentication, authorization, APIs, and modern web architectures
+- 🎯 Focused on creating clean, secure, scalable, and maintainable applications across frontend and backend
+- 📫 Reach me at nathlaxman242@gmail.com
+
 
 ---
 
